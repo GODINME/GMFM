@@ -1,2 +1,2 @@
 # CVR
-Computer Vision Research
+Computer Vision and Robotics Research 
