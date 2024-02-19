@@ -1,5 +1,8 @@
 # CVR
 Computer Vision and Robotics Research 
+
+# Proabability and Statistics, Linear Algebra and Matrix Calculus 
+- [Probability and Statistics](https://www.youtube.com/playlist?list=PLSPVGYqSR1PTcD2kV3ajtX8k82fIC70aE)
 - [Probability Bit](https://www.youtube.com/watch?v=jdoLvrfkG3Y&list=PLuh62Q4Sv7BXkeKW4J_2WQBlYhKs_k-pj)
 - [ECE 302: Probabilistic Methods in Electrical and Computer Engineering](https://engineering.purdue.edu/ChanGroup/ECE302/)
 - [Stanford CS109 Introduction to Probability for Computer](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
@@ -7,10 +10,9 @@ Computer Vision and Robotics Research
 - [JuliaTeachingCTU](https://github.com/JuliaTeachingCTU)
 - [Julia programming for ML](https://adrianhill.de/julia-ml-course/)
 - [Matrix Calculus For Machine Learning And Beyond](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/)
-### Linear Algebra
-- [Nathaniel Johnston](https://www.youtube.com/@NathanielJohnst/playlists)
-- [Prof Won Math](https://www.youtube.com/@ProfWonMath/playlists)
-- [Advanced Linear Algebra: Vector Spaces & Matrix Decompositions](https://www.youtube.com/playlist?list=PLOROtRhtegr4HyXIIHKHketOm2k3JWSpK)
+  1. [Nathaniel Johnston](https://www.youtube.com/@NathanielJohnst/playlists)
+  2. [Prof Won Math](https://www.youtube.com/@ProfWonMath/playlists)
+  3. [Advanced Linear Algebra: Vector Spaces & Matrix Decompositions](https://www.youtube.com/playlist?list=PLOROtRhtegr4HyXIIHKHketOm2k3JWSpK)
   
 
 
