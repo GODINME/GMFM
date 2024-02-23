@@ -16,6 +16,9 @@ Computer Vision and Robotics Research
   
 
 
+
+# Generative Modeling
+
 # PHD Opportunities
 - [Machine Learning Group - Technical University of Berlin BIFOLD – Berlin Institute for the Foundations of Learning and Data](https://web.ml.tu-berlin.de/jobs/)
 - [University of Nottingham - Computer Vision Laboratory](https://zhunzhong.site/)
