@@ -18,6 +18,17 @@ Computer Vision and Robotics Research
 
 
 # Generative Modeling
+- [OptiMaL](https://www.youtube.com/@mathisallyouneed6187/playlists)
+- [Diffusion Models by Dhiraj Madan](https://www.youtube.com/playlist?list=PLMXUGj9FrocjWlh8GapcbfACJUPooTQA4)
+- [Computational Creativity](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BX-uwS15xlbi7KUcgKUmWNL)
+- [Chat GPT-X and Generative Models for EM Systems Design](https://www.youtube.com/playlist?list=PLv7izQ1itK4XwMgUJMJtGOe5jTtnBPe5e)
+- [Deep Generative Models (Cornell Tech CS 6785, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+- [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 # PHD Opportunities
 - [Machine Learning Group - Technical University of Berlin BIFOLD – Berlin Institute for the Foundations of Learning and Data](https://web.ml.tu-berlin.de/jobs/)
