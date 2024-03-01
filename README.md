@@ -13,7 +13,7 @@ Computer Vision and Robotics Research
 - [Matrix Calculus For Machine Learning And Beyond](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/)
   1. [Nathaniel Johnston](https://www.youtube.com/@NathanielJohnst/playlists)
   2. [Prof Won Math](https://www.youtube.com/@ProfWonMath/playlists)
-  3. [Advanced Linear Algebra: Vector Spaces & Matrix Decompositions](https://www.youtube.com/playlist?list=PLOROtRhtegr4HyXIIHKHketOm2k3JWSpK)
+
   
 
 
