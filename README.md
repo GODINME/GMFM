@@ -26,7 +26,7 @@ Computer Vision and Robotics Research
 - [Deep Generative Models (Cornell Tech CS 6785, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
 - [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 - [6.S087: Foundation Models & Generative AI](https://www.futureofai.mit.edu/)
-- []()
+- [Deep Unsupervised Learning -- Berkeley Spring 2024](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U)
 - []()
 - []()
 - []()
