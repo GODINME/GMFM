@@ -17,3 +17,4 @@
 - [University of Nottingham - Computer Vision Laboratory](https://zhunzhong.site/)
 - [Technical University of Munich - Visual Computing Lab](https://application.vc.in.tum.de/)
 - [3D AI Lab](https://www.3dunderstanding.org/openings.html)
+- [I'm hiring PhD students! Please apply to either ECE or CSE.](https://andrewowens.com/)
