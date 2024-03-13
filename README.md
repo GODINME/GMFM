@@ -9,8 +9,8 @@
 - [6.S087: Foundation Models & Generative AI](https://www.futureofai.mit.edu/) | [Youtube](https://www.youtube.com/@Red_Blue_Green/playlists)
 - [Deep Unsupervised Learning -- Berkeley Spring 2024](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U) | [Website](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
 - [CSE 599: Generative Models](https://courses.cs.washington.edu/courses/cse599i/20au/)
-- []()
-- []()
+- [CAP6412 – Spring 2024 Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2024/)
+- [Advanced Deep Learning for Computer Vision: Visual Computing (ADL4CV) (IN2390)](https://niessner.github.io/ADL4CV/)
 
 # PHD Opportunities
 - [Machine Learning Group - Technical University of Berlin BIFOLD – Berlin Institute for the Foundations of Learning and Data](https://web.ml.tu-berlin.de/jobs/)
