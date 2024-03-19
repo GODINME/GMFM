@@ -1,7 +1,7 @@
 # Generative Modeling and Foundational Models
 
 # Generative Modeling
-- [A Course on Generative AI - Diffusion Models](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ)
+- [A Course on Generative AI - Diffusion Models](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ) | [Website](https://elad.cs.technion.ac.il/236610-diffusion-models/)
 - [OptiMaL](https://www.youtube.com/@mathisallyouneed6187/playlists) | [Github](https://github.com/misterpawan/MGM-course) | [topics](https://faculty.iiit.ac.in/~pawan.kumar/myhomepage/courses/cs7.508/)
 - [Computational Creativity](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BX-uwS15xlbi7KUcgKUmWNL) | [Website](https://richradke.github.io/computationalcreativity/)
 - [Chat GPT-X and Generative Models for EM Systems Design](https://www.youtube.com/playlist?list=PLv7izQ1itK4XwMgUJMJtGOe5jTtnBPe5e) | [Generative AI and Engineering Applications Lectures](https://tera.kaist.ac.kr/youtube-lectures/generative-ai-lectures)
